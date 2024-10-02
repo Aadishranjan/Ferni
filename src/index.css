@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+  font-family: "Regular";
+  src: local("Allura-Regular"),
+  url('./fonts/Allura-Regular.ttf') format("truetype");
+}
