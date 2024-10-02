@@ -2,7 +2,7 @@
 
 **Furni** is a sleek and modern interior design website built using **React.js** and styled with **Tailwind CSS**. This website showcases a variety of interior design elements with a focus on a user-friendly interface, responsive layout, and interactive elements.
 
-![Furni Website](./public/screenshot.jpg)
+![Furni Website](./public/Screenshot.jpg)
 
 ## Features
 - **Responsive Design**: Optimized for all screen sizes, including mobile, tablet, and desktop.
