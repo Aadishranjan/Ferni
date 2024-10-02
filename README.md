@@ -25,4 +25,15 @@ To get started with this project locally, follow these steps:
 2. **Navigate to the project directory**:
    ```bash
    cd furni-website
-   
+3. **Install dependencies**:   
+   ```bash
+   npm install
+4. **Run the development server**:
+   ```bash
+   npm run dev
+5. **Your website will be live at**:
+   ```bash
+   http://localhost:5173/
+
+## Usage
+<p>This project can be used as a template for any interior design, furniture, or portfolio website. You can easily modify components or content to match your specific needs.</p>
